@@ -1,0 +1,2 @@
+1. Since no requirements for precision were provided, this library operates with float types as it is sufficient for most geometric use cases.
+2. Since no requirements for framework were provided the library is compatible with .NET Standard 2.1, .NET Core 3.1, .NET 6 and .NET 8.
